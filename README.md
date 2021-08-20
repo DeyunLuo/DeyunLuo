@@ -2,7 +2,6 @@
 ### This is DeyunLuo !
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/DeyunLuo/)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/froldanzafra/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:deyunluo1016@gmail.com)
 
 Welcome to my Github page! I am DeyunLuo and I will use a lifetime of dedication to CS !  
