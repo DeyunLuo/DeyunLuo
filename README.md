@@ -34,4 +34,4 @@ The right image named [Wizard Book](https://mitpress.mit.edu/sites/default/files
 <code><img width="10%" src="https://github.com/DeyunLuo/DeyunLuo/blob/main/img/kubernetes.png"></code>
 </p>
 
-<sub>Credits to: <br/>[IreneHerrerart](https://www.artstation.com/ireneherrera) for the wonderfull [picture](https://github.com/FernandoRoldan93/FernandoRoldan93/blob/master/cover_image.jpg)</sub>
+<sub>Credits to: [MIT](https://mitpress.mit.edu/sites/default/files/sicp/index.html) for the [picture](https://mitpress.mit.edu/sites/default/files/sicp/graphics/main-banner.gif)</sub>
