@@ -7,9 +7,9 @@
 
 Welcome to my Github page! I am DeyunLuo and I will use a lifetime of dedication to CS !  
 
-<img align="right" alt="img" src="https://github.com/DeyunLuo/DeyunLuo/img/cover_image.jpg" width="50%" height="auto" />
+<img align="right" alt="img" src="https://github.com/DeyunLuo/DeyunLuo/blob/main/img/cover_image.gif" width="50%" height="auto" />
 
-
+The right image named [Wizard Book](https://mitpress.mit.edu/sites/default/files/sicp/index.html)
 #### 🌱 Things I am currently working on: 
 - OpenStack Secondary Deployment.   
 - Kubernetes Secondary Deployment.
@@ -30,8 +30,10 @@ Welcome to my Github page! I am DeyunLuo and I will use a lifetime of dedication
 <br />
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code>
 <br />
+<code><img width="10%" src="https://en.wikipedia.org/wiki/File:OpenStack%C2%AE_Logo_2016.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code>
 </p>
 
 <sub>Credits to: <br/>[IreneHerrerart](https://www.artstation.com/ireneherrera) for the wonderfull [picture](https://github.com/FernandoRoldan93/FernandoRoldan93/blob/master/cover_image.jpg)</sub>
