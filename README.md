@@ -31,9 +31,8 @@ The right image named [Wizard Book](https://mitpress.mit.edu/sites/default/files
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
 <br />
-<code><img width="10%" src="https://en.wikipedia.org/wiki/File:OpenStack%C2%AE_Logo_2016.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code>
+<code><img width="10%" src="https://github.com/DeyunLuo/DeyunLuo/blob/main/img/openstack.png"></code>
+<code><img width="10%" src="https://github.com/DeyunLuo/DeyunLuo/blob/main/img/kubernetes.png"></code>
 </p>
 
 <sub>Credits to: <br/>[IreneHerrerart](https://www.artstation.com/ireneherrera) for the wonderfull [picture](https://github.com/FernandoRoldan93/FernandoRoldan93/blob/master/cover_image.jpg)</sub>
