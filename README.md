@@ -17,13 +17,6 @@ The right image named [Wizard Book](https://mitpress.mit.edu/sites/default/files
 
 #### :computer: Programming languages and tools: 
 <p>
-	<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=DeyunLuo&show_icons=true&hide_border=true" />
-
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
-<code><img width="10%" src="https://golang.org/lib/godoc/images/go-logo-blue.svg"></code>
-<br />
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
 <br />
 <code><img width="10%" src="https://github.com/DeyunLuo/DeyunLuo/blob/main/img/openstack.png"></code>
 <code><img width="10%" src="https://github.com/DeyunLuo/DeyunLuo/blob/main/img/kubernetes.png"></code>
